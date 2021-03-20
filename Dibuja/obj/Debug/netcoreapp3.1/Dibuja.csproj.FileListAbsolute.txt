@@ -1,0 +1,13 @@
+C:\Users\Gredy\Desktop\tarea 5 progra\Dibuja\bin\Debug\netcoreapp3.1\Dibuja.exe
+C:\Users\Gredy\Desktop\tarea 5 progra\Dibuja\bin\Debug\netcoreapp3.1\Dibuja.deps.json
+C:\Users\Gredy\Desktop\tarea 5 progra\Dibuja\bin\Debug\netcoreapp3.1\Dibuja.runtimeconfig.json
+C:\Users\Gredy\Desktop\tarea 5 progra\Dibuja\bin\Debug\netcoreapp3.1\Dibuja.runtimeconfig.dev.json
+C:\Users\Gredy\Desktop\tarea 5 progra\Dibuja\bin\Debug\netcoreapp3.1\Dibuja.dll
+C:\Users\Gredy\Desktop\tarea 5 progra\Dibuja\bin\Debug\netcoreapp3.1\Dibuja.pdb
+C:\Users\Gredy\Desktop\tarea 5 progra\Dibuja\obj\Debug\netcoreapp3.1\Dibuja.csprojAssemblyReference.cache
+C:\Users\Gredy\Desktop\tarea 5 progra\Dibuja\obj\Debug\netcoreapp3.1\Dibuja.AssemblyInfoInputs.cache
+C:\Users\Gredy\Desktop\tarea 5 progra\Dibuja\obj\Debug\netcoreapp3.1\Dibuja.AssemblyInfo.cs
+C:\Users\Gredy\Desktop\tarea 5 progra\Dibuja\obj\Debug\netcoreapp3.1\Dibuja.csproj.CoreCompileInputs.cache
+C:\Users\Gredy\Desktop\tarea 5 progra\Dibuja\obj\Debug\netcoreapp3.1\Dibuja.dll
+C:\Users\Gredy\Desktop\tarea 5 progra\Dibuja\obj\Debug\netcoreapp3.1\Dibuja.pdb
+C:\Users\Gredy\Desktop\tarea 5 progra\Dibuja\obj\Debug\netcoreapp3.1\Dibuja.genruntimeconfig.cache

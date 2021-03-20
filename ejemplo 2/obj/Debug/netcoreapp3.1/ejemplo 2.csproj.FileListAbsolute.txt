@@ -1,0 +1,13 @@
+C:\Users\Gredy\Desktop\tarea 5 progra\ejemplo 2\bin\Debug\netcoreapp3.1\ejemplo 2.exe
+C:\Users\Gredy\Desktop\tarea 5 progra\ejemplo 2\bin\Debug\netcoreapp3.1\ejemplo 2.deps.json
+C:\Users\Gredy\Desktop\tarea 5 progra\ejemplo 2\bin\Debug\netcoreapp3.1\ejemplo 2.runtimeconfig.json
+C:\Users\Gredy\Desktop\tarea 5 progra\ejemplo 2\bin\Debug\netcoreapp3.1\ejemplo 2.runtimeconfig.dev.json
+C:\Users\Gredy\Desktop\tarea 5 progra\ejemplo 2\bin\Debug\netcoreapp3.1\ejemplo 2.dll
+C:\Users\Gredy\Desktop\tarea 5 progra\ejemplo 2\bin\Debug\netcoreapp3.1\ejemplo 2.pdb
+C:\Users\Gredy\Desktop\tarea 5 progra\ejemplo 2\obj\Debug\netcoreapp3.1\ejemplo 2.csprojAssemblyReference.cache
+C:\Users\Gredy\Desktop\tarea 5 progra\ejemplo 2\obj\Debug\netcoreapp3.1\ejemplo 2.AssemblyInfoInputs.cache
+C:\Users\Gredy\Desktop\tarea 5 progra\ejemplo 2\obj\Debug\netcoreapp3.1\ejemplo 2.AssemblyInfo.cs
+C:\Users\Gredy\Desktop\tarea 5 progra\ejemplo 2\obj\Debug\netcoreapp3.1\ejemplo 2.csproj.CoreCompileInputs.cache
+C:\Users\Gredy\Desktop\tarea 5 progra\ejemplo 2\obj\Debug\netcoreapp3.1\ejemplo 2.dll
+C:\Users\Gredy\Desktop\tarea 5 progra\ejemplo 2\obj\Debug\netcoreapp3.1\ejemplo 2.pdb
+C:\Users\Gredy\Desktop\tarea 5 progra\ejemplo 2\obj\Debug\netcoreapp3.1\ejemplo 2.genruntimeconfig.cache
